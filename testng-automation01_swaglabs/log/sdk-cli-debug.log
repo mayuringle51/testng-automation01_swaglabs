@@ -1,0 +1,13 @@
+2025-06-29T06:18:31.432Z CLI debug [testhub:service]     loaded module: _0x53428d
+2025-06-29T06:18:31.432Z CLI debug [instrumentation:service]     loaded module: instrumentation:module
+2025-06-29T06:18:31.433Z CLI debug [observability:service]     loaded module: observability:module
+2025-06-29T06:18:31.433Z CLI debug [accessibility:service]     loaded module: accessibility:module
+2025-06-29T06:18:31.434Z CLI debug [ai:service]     loaded module: _0x56cf5f
+2025-06-29T06:18:31.434Z CLI debug [percy:service]     loaded module: _0x1cf5af
+2025-06-29T06:18:31.435Z CLI debug [local:service]     loaded module: _0x11bf74
+2025-06-29T06:18:31.435Z CLI debug [appautomate:service]     loaded module: appautomate:module
+2025-06-29T06:18:31.549Z CLI debug [main]     Starting main function execution
+2025-06-29T06:18:31.549Z CLI debug [main]     Generated binSessionId: febdeaaa-0576-4c48-9d96-8c35cd590e24
+2025-06-29T06:18:31.557Z CLI debug [main]     Resolved listen address: 127.0.0.1:5400
+2025-06-29T06:18:31.610Z CLI info [main]     Server listening on port: 5400
+2025-06-29T06:18:31.610Z CLI debug     [2025-06-29T06:18:31.610Z][ OBSERVABILITY ] Monitoring has started
